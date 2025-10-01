@@ -10,6 +10,8 @@ npm install @qnrjs42/react-native-nitro-restart
 yarn add @qnrjs42/react-native-nitro-restart
 # or
 pnpm add @qnrjs42/react-native-nitro-restart
+
+pnpm add -D react-native-nitro-modules
 ```
 
 Then run pod install for iOS:
