@@ -1,0 +1,3 @@
+ignoredBuiltDependencies:
+  - nitrogen
+  - react-native-nitro-modules
