@@ -1,6 +1,6 @@
 {
   "name": "@qnrjs42/react-native-nitro-restart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-nitro-restart",
   "main": "lib/index",
   "module": "lib/index",
